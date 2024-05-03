@@ -5,7 +5,7 @@ An easy to solder Atari ST Keyboard and Mouse adapter that allows to connect mos
 Disclaimer:
 * use at your own risk. If you solder the board incorrectly you could damage your Atari.
 
-![Atari ST Keyboard Mouse Adapter Board](scrn/board.jpg)
+![Atari ST Keyboard Mouse Adapter Board](img/board.jpg)
 
 * [Technical Information](https://www.dennissalzner.de/retrocomp/2023/06/13/Di-AtariStKeyboardMouse.html)
 * [Releases](https://github.com/dsalzner/atarist-keyboard-mouse-adapter/releases)
